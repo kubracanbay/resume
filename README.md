@@ -27,7 +27,7 @@ Other Links
 - **Business Analysis Portfolio:**  
   https://github.com/kubracanbay/business-analysis-portfolio  
 - **LinkedIn:**  
-  https://www.linkedin.com/in/kübra-nur-canbay/
+  https://www.linkedin.com/in/kubra-nur-canbay/
 
 ---
 
